@@ -23,7 +23,3 @@
 </div>
   
   ##
-  
-  ### 🐍 Eating last year's contributions.
-  
-  ![Snake animation](https://github.com/Alexandresl/Alexandresl/blob/output/github-contribution-grid-snake.svg)
