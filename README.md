@@ -8,8 +8,8 @@
 
 <div>
   <a href="https://github.com/Alexandresl">
-  <img height="180em" src="https://github-readme-stats-delta-roan.vercel.app/api?username=Alexandresl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-delta-roan.vercel.app/api/top-langs/?username=Alexandresl&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-om89rqrdz-alexandresl.vercel.app/api?username=Alexandresl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-om89rqrdz-alexandresl.vercel.app/api/top-langs/?username=Alexandresl&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
 
