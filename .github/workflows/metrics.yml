@@ -41,3 +41,6 @@ jobs:
           # Calendário Isométrico de Commits
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+
+          config_theme: auto
+          # Opções: default, dark, auto
