@@ -7,10 +7,9 @@
 ##
 
 <div>
-  <a href="https://github.com/Alexandresl">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexandresl&theme=ocean_dark&count_private=true&locale=pt-BR&border_color=373e47"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandresl&layout=compact&langs_count=7&theme=ocean_dark&locale=pt-BR&border_color=373e47&card_width=400"/>
-  </a>
+  ## 📊 Minhas Estatísticas do GitHub
+
+![Metrics](https://raw.githubusercontent.com/gist/Ev357/17d9fc0cbccd58aea20b392de2d88eba/raw/aa5379c97b7f1bf89105f0960fafdb389cdbd70e/github-metrics.svg)
 </div>
 
   <div style="display: inline_block"><br>
