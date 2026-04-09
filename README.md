@@ -9,7 +9,7 @@
 <div>
   ## 📊 Minhas Estatísticas do GitHub
 
-![Metrics](./assets/metrics.svg)
+![Metrics](./assets/metrics-advanced.svg)
 </div>
 
   <div style="display: inline_block"><br>
